@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: lequ15
+          user: pawelromik
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Warsaw
